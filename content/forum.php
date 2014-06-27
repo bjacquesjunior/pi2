@@ -1,10 +1,4 @@
 
-   
-    
-        
-  
-
-	
 		<div class="row col-lg-12 row-forum">
 			<div class="col-lg-8">
 				<article>
@@ -67,20 +61,9 @@
                             </ul>
                         </article>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="box">
-                            <div class="box-gray aligncenter">
-                                <h4>Archives</h4>
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
-                                </p>	
-                            </div>
-                            <div class="box-bottom">
-                                <a href="#">Plus d'informations</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>               
+                    
+                </div> 
+                  
             </div>
 
 						<p>ILorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500sLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500sLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
@@ -95,10 +78,9 @@
 				
 			</div>
 			<div class="col-lg-4">
-				<aside class="right-sidebar">
-				
+				<aside class="right-sidebar">				
 				<div class="widget">
-					<h5 class="widgetheading">Catégories</h5>
+                                    <h5 class="widgetheading"><strong>Catégories</strong></h5>
 					<ul class="cat">
 				    	<li><i class="icon-angle-right"></i><a href="#">Les Inventions brevetées</a><span> (20)</span></li>
 						<li><i class="icon-angle-right"></i><a href="#">Les Inventions tiers Personnes</a><span> (11)</span></li>
@@ -108,46 +90,57 @@
 				<div class="widget">
 					<h5 class="widgetheading">Dernières publications</h5>
 					<ul class="recent">
-						<li>
-						<img src="../img/imgForum/index.jpg" class="imageForum" alt="">
-						<h6><a href="#">L'internet et le lendemain</a></h6>
+						<li>                                                   
+                                                    <h6><a href="#"><strong>L'internet et le lendemain</strong></a></h6>
 						<p>
-							 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 						</p>
 						</li>
-						<li>
-						<a href="#"><img src="../img/imgForum/images_1.jpg" class="imageForum" alt=""></a>
-						<h6><a href="#">Le développement de la technologie et le future</a></h6>
+						<li>						
+                                                    <h6><a href="#"><strong>Le développement de la technologie et le future</strong></a></h6>
 						<p>
-							 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 						</p>
 						</li>
-						<li>
-						<a href="#"><img src="../img/imgForum/invention_2.jpg" class="imageForum" alt=""></a>
-						<h6><a href="#">Les inventions de nos jours</a></h6>
+						<li>						
+                                                <h6><a href="#"><strong>Les inventions de nos jours</strong></a></h6>
 						<p>
-							 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 						</p>
 						</li>
 					</ul>
 				</div>
 				<div class="widget">
-					<h5 class="widgetheading">A la une</h5>
+					<h5 class="widgetheading"><strong>A la une</strong></h5>
 					<ul class="tags">
-				    <li><a href="#">Le web mobile et l'avenir</a></li>
+                                            <li><a href="#">Le web mobile et l'avenir</a></li>
 						<li><a href="#">Internet</a></li>
 						<li><a href="#"> La Technologie et l'Homme</a></li>
 						<li><a href="#">Google et sa portée</a></li>						
 					</ul>
-				</div>
-				</aside>
+				</div>                                    
+				</aside>                            
+                                <div>
+                                    <aside class="col-lg-8">
+                                        <div class="widget">
+                                            <div>
+                                                <div >
+                                                    <h5 class="widgetheading"><strong>Archives</strong></h5>
+                                                    <p>
+                                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+                                                    </p>	
+                                                </div>
+                                                <div class="box-bottom">
+                                                    <a href="#">Plus d'informations</a>
+                                                </div>
+                                            </div>                                       
+                                       </div>
+                                    </aside>
+                               </div> 
 			</div>
-		</div>
-
-
-                
-         <!-- fin contenu -->
-      
+                    
+		</div>                
+         <!-- fin contenu -->      
       <!-- fin container -->
       <!-- début footer -->
     
