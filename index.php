@@ -1,6 +1,4 @@
 <?php
-
-
 // déclaration par défault la variable "p" (represente la page) si elle n'est pas déclaré
 if(!isset($_GET["p"])){$_GET["p"]="accueil";}
 //si la variable "p" (la page)  n'existe pas 404 va s'afficher à la place
