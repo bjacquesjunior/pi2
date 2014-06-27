@@ -269,8 +269,7 @@ footer > .container-footer > ul > li:before
 }
 footer > .btn /* bouton de l'ancran nomée dans le footer*/
 { 
-	float:right;
-	margin-right;
+	float:right;	
 	border-radius:0px;
 	border:none;
 	background-color:#019875;
